@@ -2,7 +2,7 @@ name: Build APP
 
 on:
   push:
-    branches: [ "master", "old-android" ]
+    branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
 
